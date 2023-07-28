@@ -1,0 +1,93 @@
+{
+    "plu_details":[
+            {
+                "plu_id" :"1",
+                "plu_text": "TORTELLINO 1",
+                "plu_nominalWeight": "250",
+                "plu_tare": "0",
+                "type_eti": "2",
+                "un_price": "0"
+                
+            },
+            {
+                "plu_id" :"2",
+                "plu_text": "TORTELLINO DUE",
+                "plu_nominalWeight": "252",
+                "plu_tare": "0",
+                "type_eti": "2",
+                "un_price": "0"
+            },
+            {
+                "plu_id" :"3",
+                "plu_text": "TORTELLINO TRE",
+                "plu_nominalWeight": "254",
+                "type_eti": "2",
+                "plu_tare": "0",
+                "un_price": "0"
+            },
+            {
+                "plu_id" :"4",
+                "plu_text": "TORTELLINO QUATTRO",
+                "plu_nominalWeight": "256",
+                "plu_tare": "0",
+                "type_eti": "2",
+                "un_price": "0"
+            },
+            {
+                "plu_id" :"5",
+                "plu_text": "TORTELLINO CINQUE",
+                "plu_nominalWeight": "255",
+                "plu_tare": "0",
+                "type_eti": "2",
+                "un_price": "0"
+            },
+            {
+                "plu_id" :"6",
+                "plu_text": "TORTELLINO SEI",
+                "plu_nominalWeight": "256",
+                "plu_tare": "0",
+                "type_eti": "2",
+                "un_price": "0"
+            },
+            {
+                "plu_id" :"7",
+                "plu_text": "TORTELLINO SETTE",
+                "plu_nominalWeight": "256",
+                "plu_tare": "0",
+                "type_eti": "2",
+                "un_price": "0"
+            },
+            {
+                "plu_id" :"8",
+                "plu_text": "TORTELLINO OTTO",
+                "plu_nominalWeight": "258",
+                "plu_tare": "0",
+                "type_eti": "2",
+                "un_price": "0"
+            },
+            {
+                "plu_id" :"9",
+                "plu_text": "TORTELLINO NOVE",
+                "plu_nominalWeight": "259",
+                "plu_tare": "0",
+                "type_eti": "2",
+                "un_price": "0"
+            },
+            {
+                "plu_id" :"10",
+                "plu_text": "TORTELLINO DIECI",
+                "plu_nominalWeight": "260",
+                "plu_tare": "0",
+                "type_eti": "2",
+                "un_price": "0"
+            },
+            {
+                "plu_id" :"11",
+                "plu_text": "TORTELLINO UNDICI",
+                "plu_nominalWeight": "261",
+                "plu_tare": "0",
+                "type_eti": "2",
+                "un_price": "0"
+            }
+    ]
+} 

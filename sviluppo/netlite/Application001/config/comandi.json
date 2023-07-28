@@ -1,0 +1,14 @@
+{
+    "gxnetcommands":[
+            {
+                "cmd_id" :"1",
+                "cmd_description": "ping",
+                "cmd_text": "A?PL03|0"
+            },
+            {
+                "cmd_id" :"2",
+                "cmd_description": "date",
+                "cmd_text": "A!GL2B|0"
+            }
+    ]
+} 

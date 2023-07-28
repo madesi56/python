@@ -1,0 +1,39 @@
+{
+    "set_details":[
+            {
+                "plu_id" :"1",
+                "plu_text": "TORT. CARNE CARREFOUR 250",
+                "plu_nominalWeight": "250",
+                "plu_tare": "0",
+                "type_eti": "2",
+                "un_price": "0",
+                "lot_number": "1689144",
+                "belt_speed": "70",
+                "pack_lenght":"150",
+                "pack_lenght_tolerance":"5",
+                "stat_flag":"6",
+                "light_distance":"150",
+                "lower_limit":"241",
+                "upper_limit":"300",
+                "metal_detector":"0"
+            },
+            {
+                "plu_id" :"2",
+                "plu_text": "TORT. CARNE ESSELUNGA 200",
+                "plu_nominalWeight": "200",
+                "plu_tare": "0",
+                "type_eti": "2",
+                "un_price": "0",
+                "lot_number": "1689144",
+                "belt_speed": "70",
+                "pack_lenght":"150",
+                "pack_lenght_tolerance":"5",
+                "stat_flag":"6",
+                "light_distance":"150",
+                "lower_limit":"241",
+                "upper_limit":"300",
+                "metal_detector":"0"
+            }
+
+    ]
+} 
